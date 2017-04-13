@@ -1,2 +1,4 @@
 ### learn git
 type in master
+### git is awesome
+
